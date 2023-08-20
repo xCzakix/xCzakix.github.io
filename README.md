@@ -1,2 +1,59 @@
-# xCzakix.github.io
-Fantastic games studio to make dreams come true
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Game Development Studio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <h1>Your Game Studio</h1>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <section id="home">
+        <div class="container">
+            <h2>Welcome to Your Game Development Studio</h2>
+            <p>We create immersive and exciting gaming experiences.</p>
+            <a href="#portfolio" class="cta-button">Explore Our Games</a>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>Your Game Studio is a passionate team of game developers dedicated to creating memorable gaming experiences.</p>
+        </div>
+    </section>
+
+    <section id="portfolio">
+        <div class="container">
+            <h2>Our Games</h2>
+            <!-- Add your game thumbnails and descriptions here -->
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or inquiries, please feel free to reach out to us.</p>
+            <a href="mailto:contact@yourgamestudio.com" class="cta-button">Email Us</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2023 Your Game Studio. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
